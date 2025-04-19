@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# PySpark Essential Training: Build Robust Data Pipelines
+This is the repository for the LinkedIn Learning course `PySpark Essential Training: Build Robust Data Pipelines`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
