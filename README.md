@@ -19,11 +19,11 @@ This repository contains the Jupyter Notebook file used in the PySpark Essential
 Sam Bail is a data engineer with 10+ years in analytics, platforms, and technical leadership
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/sam-bail?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQGsKtO4wEvWjw/learning-public-crop_675_1200/B56ZfrMgDbHQAY-/0/1751997613067?e=2147483647&v=beta&t=5401mig8RZRgtYV9iIGIkZRTFfk3zrwvzDtX7kGTPPo
 
